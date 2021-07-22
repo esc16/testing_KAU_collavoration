@@ -1,5 +1,5 @@
 # testing_KAU_collavoration
-# push 하기 전에 contributor로 등록을 해야합니다. Slack->study-git 채널에 github id 를 남겨주면 등록하겠습니다.
+# push 하기 전에 contributor로 등록을 해야합니다. Slack->study-git 채널에 github id 를 남겨주면 등록하겠습니다. 그리고 등록 후에 email에서 contributor를 수락해야합니다.
 
 1. Git repository를 clone 한다. "git clone https://github.com/esc16/testing_KAU_collavoration.git"
 2. Notepad로 Text file을 만든다. 파일명은 "영문이름+학번.txt"(Ex : dean_kim_1994.rtf or dean_kim_1994.txt) Text file의 내용은 자기소개와 현재 KAU에서 맡고 있는 Role 설명한다.
