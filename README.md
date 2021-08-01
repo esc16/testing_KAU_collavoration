@@ -1,5 +1,5 @@
 # testing_KAU_collavoration
-#2차 숙제(작성중)
+#2차 숙제
 # 이번 숙제는 Git branch르 만들고 본인이름+학번으로 된 Directory(Folder)를 만든다음 방학동안에 할 일 파일을 만든다음 Main에 merge하는 것입니다.
 # Git Tutorial 사이트에서 더 자세하게 공부 할 수 있습니다. https://backlog.com/git-tutorial/kr/stepup/stepup2_1.html
 1. 먼저 Git init이나 clone으로 repository를 준비합니다. Bracn 생성전에 git repository가 update되어 있다면 "git pull" 명령어로 repository와 sync를 꼭 해야합니다.
